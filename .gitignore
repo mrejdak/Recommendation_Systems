@@ -1,5 +1,7 @@
 /socialmediadata-beeradvocate/*
 /steam/*
+/amazon/*
+embeddings_all-*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
