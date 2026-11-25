@@ -13,9 +13,11 @@ dependencies = [
     "nltk>=3.10.4",
     "numpy>=2.5.4",
     "pandas>=3.1.0",
+    "pykeen>=1.11.1",
     "scikit-learn>=1.9.1",
     "sentence-transformers>=6.2.0",
     "tdqm>=0.0.1",
+    "torch>=2.15.0",
     "tqdm>=4.70.1",
     "wordcloud>=1.9.6",
 ]
